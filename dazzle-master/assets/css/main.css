@@ -3267,3 +3267,8 @@ footer ul a:visited {
     width: 160px !important;
   }
 }
+@media (max-width: 768px) {
+    .page-banner {
+        padding-top: 129px;
+    }
+}
